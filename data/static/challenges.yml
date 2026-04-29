@@ -154,9 +154,7 @@
   difficulty: 1
   hints:
     - >-
-      Forced browsing is a common attack technique 
-      used by penetration testers. Try analyzing 
-      the application''s JavaScript bundle in your 
+      Try analyzing the application''s JavaScript bundle in your 
       browser''s DevTools (Sources tab) to discover 
       routes that exist but are not linked anywhere 
       in the UI.
